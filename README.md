@@ -1,21 +1,4 @@
-# Firefly(流萤): 中文对话式大语言模型
-
-<div align="left">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/yangjianxin1/Firefly?style=social)
-[![Generic badge](https://img.shields.io/badge/微信交流群-Firefly-brightgreen?logo=wechat)](./pics/wechat-group.jpeg)
-[![Generic badge](https://img.shields.io/badge/🤗-Huggingface%20Repo-green.svg)](https://huggingface.co/YeungNLP)
-
-[//]: # ([![Generic badge]&#40;https://img.shields.io/badge/微信-Firefly-brightgreen?logo=wechat&#41;]&#40;./pics/wechat.jpeg&#41;)
-</div>
-
-<img src="pics/firefly_logo.png" width="250">
-
-欢迎加入Firefly大模型技术交流群，关注我们的公众号，点击加群按钮即可。
-
-<img src="pics/gongzhonghao.png" width="300">
-
-
+# 本项目以“Firefly(流萤): 中文对话式大语言模型”为蓝本，期望以使用场景为切入点，以现有语言大模型为基础，扩展到机器学习其他模型模型，打造成个人使用的模型训练平台，一切智能体皆会成长，但需要不断创造环境培育
 
 ## News
 - 🔥 支持微调[XVERSE-13B](https://huggingface.co/xverse/XVERSE-13B)。
